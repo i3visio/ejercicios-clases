@@ -1,0 +1,4 @@
+Buscar el incidente y noticias recientes del New York Times.
+
+Versión original: https://www.nytimes.com/es/2019/03/10/venezuela-ayuda-incendiada/
+Versión archivada: https://archive.fo/ng2ws
